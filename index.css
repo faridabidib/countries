@@ -1,0 +1,23 @@
+img{
+    height: 100px;
+}
+.card{
+    width: 100%;
+    height: 100%;
+    background-color: burlywood;
+    border-width: 10px;
+    border-color:gray;
+    
+}
+body{
+    background-color: royalblue;
+}
+h3{
+    text-decoration: underline dashed;
+    color:rgba(36, 174, 100, 0.8);
+    font-family: 'Source Code Pro', monospace;
+}
+h7{
+    color: rgba(174, 36, 168, 0.8);
+    font-family: 'Source Code Pro', monospace;
+}
